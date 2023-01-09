@@ -48,7 +48,7 @@ function updateFilters() {
     }
   
     // 6. Call function to apply all filters and rebuild the table
-    updateTable();
+    filterTable();
   
   }
   
